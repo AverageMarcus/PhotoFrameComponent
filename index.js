@@ -57,6 +57,9 @@ class PhotoFrame extends LitElement {
           image.onload = function() {
             done(image);
           };
+          image.onerror = function() {
+            resolve();
+          };
         }
       });
     }))
