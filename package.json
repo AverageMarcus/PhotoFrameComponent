@@ -23,7 +23,7 @@
     "justified-layout": "^2.1.1"
   },
   "devDependencies": {
-    "local-web-server": "^2.5.§2",
+    "local-web-server": "^2.5.2",
     "np": "^3.0.2",
     "rollup": "^0.59.4",
     "rollup-plugin-commonjs": "^9.1.3",
