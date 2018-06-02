@@ -9,6 +9,9 @@ Live Demo: https://photo-frame-component.glitch.me/
 
 The page will slowly scroll through all images and then scroll back up once it reaches the bottom (on repeat). Clicking/tapping anywhere on the page will toggle fullscreen mode.
 
+![image](https://user-images.githubusercontent.com/3384072/40873008-6a79a1de-6650-11e8-8ca2-97813ba95810.png)
+
+
 ## Usage
 
 1. Include a script reference to the module:
